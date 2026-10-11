@@ -1,6 +1,6 @@
 # Contributing
 
-Keep the apps offline for local playback and preserve original media. Use bounded workers,
+Keep Sonora offline for local playback and preserve original media. Use bounded workers,
 buffers and parsing; keep input/keys owned by focused controls. New formats need actual decode
 evidence, not just an extension in a picker. Preserve conditional codec states and clear failures.
 
